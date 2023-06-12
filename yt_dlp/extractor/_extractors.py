@@ -664,7 +664,6 @@ from .funimation import (
     FunimationShowIE,
 )
 from .funk import FunkIE
-from .funker530 import Funker530IE
 from .fusion import FusionIE
 from .fuyintv import FuyinTVIE
 from .gab import (
